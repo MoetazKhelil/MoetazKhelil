@@ -1,4 +1,4 @@
-# 🌟 Moetaz's Tech Universe 🚀
+# 🌌 Moetaz's Tech Universe 🚀
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=MoetazKhelil&color=blueviolet&style=flat-square" alt="Profile Views"/>
