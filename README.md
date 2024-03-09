@@ -1,66 +1,66 @@
-# 🌌 Moetaz's Tech Wonderland 🚀✨
+# 🌟 Moetaz's Tech Universe 🚀
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MoetazKhelil&color=blueviolet&style=flat-square" alt="Profile Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=MoetazKhelil&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif" width="140">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120">
 </div>
 
 ---
 
-### ✨ Magic in the Making
+### 🖥️ Digital Alchemy
 
-In Munich's tech heart, TUM, is Moetaz—a wizard of the web, spinning digital dreams into reality. Every day is a quest for the next amazing thing.
+In Munich's vibrant tech scene, at the prestigious TUM, Moetaz blends theory with practice—transmuting code into innovations that matter.
 
 ---
 
-### 🛠️ Crafting With:
+### 🧰 Master Craftsman's Kit
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="60"> 
-  <br>"Tools and talents bring visions to life."
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80"> 
+  <br>"Precision tools for elegant solutions."
 </p>
 
-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) - Crafting sturdy structures.
-- ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F) - Growing ideas into reality.
-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB) - Whispering to machines, softly.
-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) - Building with the basics.
-- ![OCaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=OCaml&logoColor=EC6813) - Thinking differently.
-- ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=DD0031) - Designing tomorrow's web.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E) - Bringing life to pages.
-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26) - The skeleton of the web.
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) - Dressing up the web in style.
+- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) - Crafting the core.
+- ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F) - Engineering growth.
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB) - Scripting intelligence.
+- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) - Structuring performance.
+- ![OCaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=OCaml&logoColor=EC6813) - Functionally artistic.
+- ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=DD0031) - Shaping experiences.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E) - Animating ideas.
+- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26) - Building blocks of the web.
+- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) - Styling the future.
 
-Dive into the toolbox with Moetaz and create something new.
+Harnessing the right tools, Moetaz architects the digital tomorrow.
 
 ---
 
-### 🌠 Exploring New Frontiers
+### 🔭 Galactic Explorations
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=MoetazKhelil&show_icons=true&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoetazKhelil&show_icons=true&theme=tokyonight" alt="Moetaz's GitHub Stats"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=MoetazKhelil&show_icons=true&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=MoetazKhelil&show_icons=true&theme=vision-friendly-dark" alt="Moetaz's GitHub Stats"/>
   </a>
 </div>
 
-"Charting through constellations of code, seeking the unknown." Discover the projects that are shaping new realities.
+"Journeying through code, creating pathways to innovation." Traverse Moetaz's digital domain for a glimpse into the future.
 
 ---
 
-### 📡 Signal to Moetaz
+### 🌐 Connect & Collaborate
 
-Want to start an adventure or share a vision? Reach out and let the magic happen:
+Keen on pioneering solutions or seeking dialogue on the next big idea? Let's bridge the distance:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moetaz-khelil-8a05b721b/)
 - [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moetazkhelil@yahoo.com)
 
-Together, we'll craft the future—one dream, one line, one pixel at a time.
+In the vast expanse of technology, let's be the architects of change.
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="50"> <br>
-  Let's build the unimaginable. 💫
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="80"> <br>
+  Crafting the future, one line of code at a time.
 </p>
