@@ -37,6 +37,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) - Dressing up the web in style.
 - ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=DD0031) - Designing tomorrow's web.
 
+
 ---
 
 ### 🔭 Galactic Explorations
