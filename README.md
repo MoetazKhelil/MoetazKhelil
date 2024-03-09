@@ -10,9 +10,14 @@
 
 ---
 
-### 🖥️ Digital Alchemy
+### 🚀 About Me
 
-In Munich's vibrant tech scene, at the prestigious TUM, Moetaz blends theory with practice—transmuting code into innovations that matter.
+- 💻 I'm a Bachelor's student in Computer Science at the Technical University of Munich (TUM), delving deep into the bits and bytes of our digital world.
+- 🔍 Passionate about solving problems with code, I seek to create software that makes a difference, aiming for impact and innovation.
+- 👨‍💻 Aspiring to be a better developer each day, I embrace challenges, eager to transform obstacles into opportunities for growth.
+- 🤝 I believe in collaboration and the power of community, aiming to contribute to projects that empower individuals and society.
+
+Harnessing the right tools, Moetaz architects the digital tomorrow.
 
 ---
 
@@ -32,9 +37,6 @@ In Munich's vibrant tech scene, at the prestigious TUM, Moetaz blends theory wit
 - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26) - The skeleton of the web.
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) - Dressing up the web in style.
 - ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=DD0031) - Designing tomorrow's web.
-
-
-Harnessing the right tools, Moetaz architects the digital tomorrow.
 
 ---
 
