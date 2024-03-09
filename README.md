@@ -63,7 +63,3 @@ In the vast expanse of technology, let's be the architects of change.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="80"> <br>
-  Crafting the future, one line of code at a time.
-</p>
