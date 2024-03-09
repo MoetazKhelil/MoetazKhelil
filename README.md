@@ -17,7 +17,6 @@
 - 👨‍💻 Aspiring to be a better developer each day, I embrace challenges, eager to transform obstacles into opportunities for growth.
 - 🤝 I believe in collaboration and the power of community, aiming to contribute to projects that empower individuals and society.
 
-Harnessing the right tools, Moetaz architects the digital tomorrow.
 
 ---
 
