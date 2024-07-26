@@ -40,18 +40,6 @@
 
 ---
 
-### 🔭 Galactic Explorations
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=MoetazKhelil&show_icons=true&theme=vision-friendly-dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=MoetazKhelil&show_icons=true&theme=vision-friendly-dark" alt="Moetaz's GitHub Stats"/>
-  </a>
-</div>
-
-"Journeying through code, creating pathways to innovation." Traverse Moetaz's digital domain for a glimpse into the future.
-
----
-
 ### 🌐 Connect & Collaborate
 
 Keen on pioneering solutions or seeking dialogue on the next big idea? Let's bridge the distance:
