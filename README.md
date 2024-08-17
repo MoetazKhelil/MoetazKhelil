@@ -31,11 +31,12 @@
 - ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=6DB33F) - Growing ideas into reality.
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=3776AB) - Whispering to machines, softly.
 - ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) - Building with the basics.
-- ![OCaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=OCaml&logoColor=EC6813) - Thinking differently.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=F7DF1E) - Bringing life to pages.
+- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB) - Building dynamic UI for modern web applications.
 - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=E34F26) - The skeleton of the web.
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) - Dressing up the web in style.
-- ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=DD0031) - Designing tomorrow's web.
+- ![OCaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=OCaml&logoColor=EC6813) - Thinking differently.
+
 
 
 ---
